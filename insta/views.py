@@ -6,11 +6,13 @@ from django.urls import reverse, reverse_lazy
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.mixins import LoginRequiredMixin
 from insta.forms import CustomUserCreationForm
+from django.contrib.auth.decorators import login_required
 
 # helloworld is a templateview
 class HelloWorld(TemplateView):
     template_name = 'test.html'
-
+    
+@login_required
 # both class are establishing VIEW
 class PostsView(ListView):
     model = Post # take all model (post), put them into a list and pass on to the template
