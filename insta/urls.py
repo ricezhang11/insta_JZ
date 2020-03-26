@@ -18,7 +18,7 @@ from django.urls import include, path
 from insta.views import HelloWorld, PostsView, PostDeleteView, UserDetailView, PostUpdateView, PostDetailView, PostCreateView, addLike
 
 urlpatterns = [
-    path('helloworld/', HelloWorld.as_view(), name = 'helloworld'),
+    path('', PostsView.as_view(), name = 'helloworld'),
     path('posts/', PostsView.as_view(), name = 'posts'),
     path('post/<int:pk>', PostDetailView.as_view(), name = 'post_detail'),
     path('post/new/', PostCreateView.as_view(), name = 'make_post'),
