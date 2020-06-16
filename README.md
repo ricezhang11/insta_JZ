@@ -4,16 +4,17 @@
 3. Back-end implemented with Python and Django framework on SQLite database. 
 
 Snapshots of the application
-![](images/Screen Shot 2020-06-15 at 11.25.46 PM)
 
-![](images/Screen Shot 2020-06-15 at 11.25.59 PM)
+![](images/Screen%20Shot%202020-06-15%20at%2011.25.46%20PM.png)
 
-![](images/Screen Shot 2020-06-15 at 11.26.13 PM)
+![](images/Screen%20Shot%202020-06-15%20at%2011.25.59%20PM.png)
 
-![](images/Screen Shot 2020-06-15 at 11.30.54 PM)
+![](images/Screen%20Shot%202020-06-15%20at%2011.26.13%20PM.png)
 
-![](images/Screen Shot 2020-06-15 at 11.31.18 PM)
+![](images/Screen%20Shot%202020-06-15%20at%2011.30.54%20PM.png)
 
-![](images/Screen Shot 2020-06-15 at 11.31.35 PM)
+![](images/Screen%20Shot%202020-06-15%20at%2011.31.18%20PM.png)
 
-![](images/Screen Shot 2020-06-15 at 11.32.05 PM)
+![](images/Screen%20Shot%202020-06-15%20at%2011.31.35%20PM.png)
+
+![](images/Screen%20Shot%202020-06-15%20at%2011.32.05%20PM.png)
